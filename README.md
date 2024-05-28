@@ -27,7 +27,7 @@ Simply enter the corresponding number to select an option.
    This option terminates the application.
 
 ## Features
-**User-friendly interface:**
+* **User-friendly interface:**
     The application interacts with you through clear prompts and messages, making it easy to use.
-**Interactive management:**
+* **Interactive management:**
      You can dynamically add, remove, and mark tasks as completed based on your needs.   
