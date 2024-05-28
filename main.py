@@ -50,7 +50,7 @@ def mark_task_completed(tasks):
 def main():
     tasks = load_tasks()
     while True:
-        print("\nTo-Do List Manager")
+        print("\nTo-Do List Menu")
         print("1. View tasks")
         print("2. Add task")
         print("3. Remove task")
