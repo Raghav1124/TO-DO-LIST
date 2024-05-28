@@ -15,15 +15,15 @@ Simply enter the corresponding number to select an option.
 
 ## Here's a breakdown of each option:
 
-**View Tasks:**
+* **View Tasks:**
    This will display all currently existing tasks on your list.
-**Add Task:**
+* **Add Task:**
    You can enter a new task description when prompted.
-**Remove Task:**
+* **Remove Task:**
    You'll see a list of your tasks. Enter the number of the task you want to remove.
-**Mark Task as Completed:**
+* **Mark Task as Completed:**
    You'll see a list of your tasks. Enter the number of the task you've finished.
-**Exit:**
+* **Exit:**
    This option terminates the application.
 
 ## Features
