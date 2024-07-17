@@ -26,6 +26,16 @@ Simply enter the corresponding number to select an option.
 * **Exit:**
    This option terminates the application.
 
+  ## How to Use
+1. Ensure you have Python installed on your machine (Python 3.x recommended).
+2. Clone this repository or download the `main.py` file.
+3. Open a terminal or command prompt.
+4. Navigate to the directory where the `main.py` file is located.
+5. Run the program using the following command:
+
+   ```bash
+   python main.py
+
 ## Features
 * **User-friendly interface:**
     The application interacts with you through clear prompts and messages, making it easy to use.
