@@ -26,7 +26,12 @@ Simply enter the corresponding number to select an option.
 * **Exit:**
    This option terminates the application.
 
-  ## How to Use
+## Features
+* **User-friendly interface:**
+    The application interacts with you through clear prompts and messages, making it easy to use.
+* **Interactive management:**
+     You can dynamically add, remove, and mark tasks as completed based on your needs.
+ ## How to Use
 1. Ensure you have Python installed on your machine (Python 3.x recommended).
 2. Clone this repository or download the `main.py` file.
 3. Open a terminal or command prompt.
@@ -35,9 +40,3 @@ Simply enter the corresponding number to select an option.
 
    ```bash
    python main.py
-
-## Features
-* **User-friendly interface:**
-    The application interacts with you through clear prompts and messages, making it easy to use.
-* **Interactive management:**
-     You can dynamically add, remove, and mark tasks as completed based on your needs.   
